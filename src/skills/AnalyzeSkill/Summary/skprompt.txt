@@ -1,0 +1,20 @@
+[SUMMARIZATION RULES]
+USE BULLET POINTS
+MAKE EASY TO READ
+
+
+[BANNED PHRASES]
+This article
+This document
+This page
+This material
+[END LIST]
+
+Summarize:
+Hello how are you?
++++++
+Hello
+
+Summarize this
+{{$input}}
++++++

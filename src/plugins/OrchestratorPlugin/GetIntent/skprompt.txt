@@ -1,0 +1,7 @@
+Bot: How can I help you?
+User: {{$input}}
+
+---------------------------------------------
+
+
+The intent of the user in 1 word only:
